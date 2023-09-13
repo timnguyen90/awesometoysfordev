@@ -1,5 +1,5 @@
+# AWESOME TOOLS FOR AWESOME DEVELOPERS.
 
-- [AWESOME TOOLS FOR AWESOME DEVELOPERS.](#awesome-tools-for-awesome-developers)
   - [I. IDE Tools](#i-ide-tools)
     - [.NET](#net)
     - [JAVA](#java)
@@ -15,8 +15,7 @@
   - [VI. Contributors](#vi-contributors)
   - [VII. References](#vii-references)
 
-
-# AWESOME TOOLS FOR AWESOME DEVELOPERS.
+---
 
 ## I. IDE Tools
 
